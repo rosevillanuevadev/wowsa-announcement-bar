@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WOWSA Announcement Bar
- * Plugin URI:        https://github.com/rose2023va/wowsa-announcement-bar
+ * Plugin URI:        https://github.com/rosevillanuevadev/wowsa-announcement-bar
  * Description:       Reusable institutional announcement bar for WOWSA initiatives. One announcement at a time, displayed above the primary navigation. Fully configurable from the WordPress admin — no code changes required to reuse it.
  * Version:           1.0.2
  * Requires at least: 5.6
